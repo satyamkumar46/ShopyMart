@@ -1,6 +1,6 @@
 # Shopping Store App
 A modern and fully functional eCommerce mobile application built using React Native.
-This app allows users to browse products, view detailed information, add items to cart, and manage orders with a smooth and responsive UI experience.
+This app allows users to browse products, view detailed information, add items to favourite, and responsive UI experience.
 
 # Features
 - User Authentication (Login / Register)
