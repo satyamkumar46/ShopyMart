@@ -12,6 +12,11 @@ This app allows users to browse products, view detailed information, add items t
 
 # ScreenShot 🎥
 
+
+https://github.com/user-attachments/assets/5417deb8-cacd-436f-b889-19008cb6d5bf
+
+
+
 # Tech Stack
 - JavaScript
 - React Native
